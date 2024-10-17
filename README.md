@@ -1,5 +1,5 @@
 # Jenkins CI/CD Terraform Project
-
+![Jenkins CICD](./Jenkins%20cicd.png)
 ## Overview
 
 This project sets up a Jenkins CI/CD server on AWS using Terraform. Jenkins is a popular open-source automation server that helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery (CI/CD).
